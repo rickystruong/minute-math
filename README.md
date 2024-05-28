@@ -1,4 +1,4 @@
-# cs32-final-project
+# minute-math
 
 This is Minute Math, my final project for CS 32.
 
